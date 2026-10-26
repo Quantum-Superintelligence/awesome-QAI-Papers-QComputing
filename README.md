@@ -1,17 +1,17 @@
 # 🔄 Quantum Computing Fundamentals (QComputing) Papers
 
 This section of the **Quantum AI Papers** repository focuses on **Quantum Computing Fundamentals (QComputing)**.  
-QTL leverages knowledge from pre-trained quantum or hybrid quantum-classical models and adapts it to new tasks or domains. This paradigm plays a crucial role in overcoming limitations of small datasets, reducing training costs, and accelerating the deployment of quantum-enhanced AI systems.  
+Quantum computing uses quantum states, gates, measurement, and interference to process information in ways that complement classical computation. This collection covers computational models, algorithms, hardware architectures, error correction, software platforms, and representative applications.  
 
 ---
 
 ## 📚 Scope
 Research papers in this category explore:
-- Transfer of learned quantum circuit parameters between tasks  
-- Hybrid classical–quantum transfer learning frameworks  
-- Applications of QTL in physics, chemistry, medical imaging, and natural language processing  
-- Optimization strategies to mitigate issues such as barren plateaus  
-- Cross-domain transfer of quantum models for practical real-world problems  
+- Quantum circuits, qubits, measurement, entanglement, and computational models  
+- Quantum algorithms, quantum-classical workflows, simulation, optimization, and machine learning  
+- Qubit modalities, processor architectures, NISQ systems, fault tolerance, and error correction  
+- Quantum programming platforms, verification, benchmarking, and software infrastructure  
+- Substantive applications in science, engineering, cybersecurity, communications, chemistry, and medicine  
 
 ---
 
@@ -36,6 +36,21 @@ Research papers in this category explore:
 | The state of quantum computing applications in health and medicine                                           |   2023 | Cambridge Core                                                                             | Frederik F. Flöther                                                                                                     | https://doi.org/10.1017/qut.2023.4                                      | QComputing |
 | Business Renaissance: Opportunities and Challenges at the Dawn of the Quantum Computing Era                  |   2023 | MDPI                                                                                       | Meng-Leong How, Sin-Mei Cheah                                                                                           | https://doi.org/10.3390/businesses3040036                               | QComputing |
 
+
+---
+
+## 🆕 Newly added and verified literature (2025–2026)
+
+These papers were screened as directly relevant to quantum computing fundamentals, hardware, algorithms, applications, or broad technical reviews. News articles, commercial announcements, and sources without stable bibliographic metadata were excluded.
+
+| title | year | publisher | Author | link | category |
+|---|---:|---|---|---|---|
+| Comparative Analysis of Contemporary Quantum Computer Processors: Architectures, Performance, and Perspectives | 2026 | IEEE | Marko Vukšić; Jasmin Ćelić; Aleksandar Cuculić | [DOI](https://doi.org/10.1109/ACCESS.2026.3670749) | QComputing |
+| A study of qubit modalities in contemporary quantum computing | 2026 | Springer Nature | Arun Govindankutty | [DOI](https://doi.org/10.1007/s44464-026-00033-9) | QComputing |
+| A Review on Models and Applications of Quantum Computing | 2025 | MDPI | Eduard Grigoryan; Sachin Kumar; Placido Rogério Pinheiro | [DOI](https://doi.org/10.3390/quantum7030039) | QComputing |
+| Quantum computing: foundations, algorithms, and emerging applications | 2025 | Frontiers | V. Raseena | [DOI](https://doi.org/10.3389/frqst.2025.1723319) | QComputing |
+| Quantum Computing: Foundations, Architecture and Applications | 2025 | Wiley | Christopher Columbus Chinnappan; Palani Thanaraj Krishnan; Elakiya Elamaran; Rajakumar Arul; T. Sunil Kumar | [DOI](https://doi.org/10.1002/eng2.70337) | QComputing |
+| A survey on quantum computing: Transforming cryptography, AI/ML, blockchain, and network communication | 2025 | Elsevier | Shruti Kundu; Twinkle Gupta; Akash Sardar; Anjan Bandyopadhyay; Sujata Swain; Saurav Mallik | [DOI](https://doi.org/10.1016/j.fraope.2025.100371) | QComputing |
 
 ---
 
