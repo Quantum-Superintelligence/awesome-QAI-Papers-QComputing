@@ -47,10 +47,16 @@ These papers were screened as directly relevant to quantum computing fundamental
 |---|---:|---|---|---|---|
 | Comparative Analysis of Contemporary Quantum Computer Processors: Architectures, Performance, and Perspectives | 2026 | IEEE | Marko Vukšić; Jasmin Ćelić; Aleksandar Cuculić | [DOI](https://doi.org/10.1109/ACCESS.2026.3670749) | QComputing |
 | A study of qubit modalities in contemporary quantum computing | 2026 | Springer Nature | Arun Govindankutty | [DOI](https://doi.org/10.1007/s44464-026-00033-9) | QComputing |
+| Benchmarking fault-tolerant quantum computing hardware via QLOPS | 2026 | ACM | Linghang Kong; Fang Zhang; Jianxin Chen | [DOI](https://doi.org/10.1145/3797968) | QComputing |
+| Low-overhead fault-tolerant quantum computation by gauging logical operators | 2026 | Nature Physics | Dominic J. Williamson; Theodore J. Yoder | [DOI](https://doi.org/10.1038/s41567-026-03220-8) | QComputing |
+| Improved quantum processor logical error rates via correction and detection | 2026 | Nature | A. Paetznick et al. | [DOI](https://doi.org/10.1038/s41586-026-10628-y) | QComputing |
 | A Review on Models and Applications of Quantum Computing | 2025 | MDPI | Eduard Grigoryan; Sachin Kumar; Placido Rogério Pinheiro | [DOI](https://doi.org/10.3390/quantum7030039) | QComputing |
 | Quantum computing: foundations, algorithms, and emerging applications | 2025 | Frontiers | V. Raseena | [DOI](https://doi.org/10.3389/frqst.2025.1723319) | QComputing |
 | Quantum Computing: Foundations, Architecture and Applications | 2025 | Wiley | Christopher Columbus Chinnappan; Palani Thanaraj Krishnan; Elakiya Elamaran; Rajakumar Arul; T. Sunil Kumar | [DOI](https://doi.org/10.1002/eng2.70337) | QComputing |
 | A survey on quantum computing: Transforming cryptography, AI/ML, blockchain, and network communication | 2025 | Elsevier | Shruti Kundu; Twinkle Gupta; Akash Sardar; Anjan Bandyopadhyay; Sujata Swain; Saurav Mallik | [DOI](https://doi.org/10.1016/j.fraope.2025.100371) | QComputing |
+| Distributed quantum computing across an optical network link | 2025 | Nature | D. Main et al. | [DOI](https://doi.org/10.1038/s41586-024-08404-x) | QComputing |
+| An 11-qubit atom processor in silicon | 2025 | Nature | Hermann Edlbauer et al. | [DOI](https://doi.org/10.1038/s41586-025-09827-w) | QComputing |
+| Hardware-efficient quantum error correction via concatenated bosonic qubits | 2025 | Nature | Harald Putterman et al. | [DOI](https://doi.org/10.1038/s41586-025-08642-7) | QComputing |
 
 ---
 
